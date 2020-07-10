@@ -14,7 +14,11 @@ import ch.zli.m223.dragana.multiuserapp.model.memo.MemoDto;
 import ch.zli.m223.dragana.multiuserapp.model.user.UserDto;
 import ch.zli.m223.dragana.multiuserapp.service.memo.MemoService;
 import ch.zli.m223.dragana.multiuserapp.service.user.UserService;
-
+/*
+ * @author Dragana Ristic
+ * @version 1.4
+ * @date 10.07.20
+ */
 
 @RestController
 public class UserRestController {

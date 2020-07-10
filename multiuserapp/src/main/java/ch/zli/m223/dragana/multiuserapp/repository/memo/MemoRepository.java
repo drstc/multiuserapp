@@ -8,7 +8,11 @@ import ch.zli.m223.dragana.multiuserapp.model.memo.Memo;
 import ch.zli.m223.dragana.multiuserapp.model.memo.MemoImpl;
 import ch.zli.m223.dragana.multiuserapp.model.user.User;
 import ch.zli.m223.dragana.multiuserapp.model.user.UserImpl;
-
+/*
+ * @author Dragana Ristic
+ * @version 1.4
+ * @date 10.07.20
+ */
 
 public interface MemoRepository extends JpaRepository<MemoImpl, Long> {
 	

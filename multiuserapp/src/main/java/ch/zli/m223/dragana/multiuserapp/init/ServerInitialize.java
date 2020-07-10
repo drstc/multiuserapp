@@ -9,7 +9,11 @@ import ch.zli.m223.dragana.multiuserapp.model.user.User;
 import ch.zli.m223.dragana.multiuserapp.repository.memo.MemoRepository;
 import ch.zli.m223.dragana.multiuserapp.repository.user.UserRepository;
 
-
+/*
+ * @author Dragana Ristic
+ * @version 1.4
+ * @date 10.07.20
+ */
 
 @Component
 public class ServerInitialize implements ApplicationRunner {

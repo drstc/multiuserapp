@@ -11,7 +11,11 @@ import javax.persistence.Id;
 import javax.persistence.OneToMany;
 
 import ch.zli.m223.dragana.multiuserapp.model.memo.MemoImpl;
-
+/*
+ * @author Dragana Ristic
+ * @version 1.4
+ * @date 10.07.20
+ */
 @Entity(name = "User")
 public class UserImpl implements User {
 	@Id
